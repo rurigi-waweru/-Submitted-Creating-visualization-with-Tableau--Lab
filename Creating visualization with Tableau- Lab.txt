@@ -1,0 +1,22 @@
+# Creating visualization with Tableau- Lab
+
+# Task: 
+# Create at least 3 different visualization types: 
+## Each pane should illustrate something different about the data.
+
+
+## Procedure:
+
+Visuals 
+1. Sheet 0: A Table of Various Teams long their stats (Filtered along the Top 10)
+2. Sheet 1: Top 10 Teams ordered by the number of games
+3. Sheet 2: A BarGraph Visual of Various Teams long their stats (Filtered along the Top 10)
+4. Sheet 3: A Scatterplot of the Stats of various Teams along their Wins and Losses.
+5. Sheet 4: Top 10 Most Successful Scorers
+6. Dashboard: Featured only - Sheet 1, Sheet 2 and Sheet 3
+
+# Link to GitRepo
+## https://github.com/rurigi-waweru/-Submitted-Creating-visualization-with-Tableau--Lab.git
+
+# Link to DataFrame:
+## https://public.tableau.com/app/profile/brian.waweru/viz/3DifferentVisualizationTypesforthePlayerTxtFile/Dashboard1?publish=yes
