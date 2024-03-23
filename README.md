@@ -1,7 +1,6 @@
 # Creating visualization with Tableau- Lab
 
-# Task: 
-# Create at least 3 different visualization types: 
+# Task: Create at least 3 different visualization types: 
 ## Each pane should illustrate something different about the data.
 
 
